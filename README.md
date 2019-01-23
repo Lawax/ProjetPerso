@@ -1,2 +1,3 @@
 # ProjetPerso
-projet init git
+projet init git 
+ça avance tranquillou
